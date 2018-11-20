@@ -1,0 +1,15 @@
+.texthover:hover{
+    background-color: black;
+}
+.tab-color:hover{
+    background: #fff;
+    border: 0px;
+    border-right: 2px solid #62adec;
+    margin-right: -1px;
+    color: #62adec;
+}
+.font-style{
+    font-family: Monospaced;
+    font-size: 36px;
+    color:#018caa;
+}
